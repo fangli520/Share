@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/lisa/ShareSDKExample/ShareSDKExample/ViewController.m \
+  /Users/lisa/ShareSDKExample/ShareSDKExample/ViewController.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/ShareSDK.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/NSMutableDictionary+SSDKInit.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/SSDKTypeDefine.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/SSDKContentEntity.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/IMOBFContentEntity.h \
+  /Users/lisa/ShareSDKExample/SDK/Required/MOBFoundation.framework/Headers/IMOBFDataModel.h \
+  /Users/lisa/ShareSDKExample/SDK/Required/MOBFoundation.framework/Headers/MOBFDataModel.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/NSMutableDictionary+SSDKShare.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/SSDKImage.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/SSDKData.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/SSDKUserQueryConditional.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/SSDKCredential.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/SSDKAuthViewStyle.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/SSDKUser.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/ShareSDK.framework/Headers/IMOBFSocialUser.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/Support/Optional/ShareSDKUI.framework/Headers/ShareSDK+SSUI.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/Support/Optional/ShareSDKUI.framework/Headers/SSUIShareActionSheetController.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/Support/Optional/ShareSDKUI.framework/Headers/SSUITypeDef.h \
+  /Users/lisa/ShareSDKExample/SDK/ShareSDK/Support/Optional/ShareSDKUI.framework/Headers/SSUIShareContentEditorViewController.h
